@@ -1,0 +1,103 @@
+body{
+        background-color: rgb(91, 62, 110);
+        font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section#camp1{
+    background: rgba(221, 207, 16, 0.973);
+    border-radius: 24px 4px;
+    padding: 15px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.781);
+    
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+div#ask{
+    text-align: center;
+    font-family: fantasy;
+    font-size: larger;
+    color:rgb(0, 0, 0);
+}
+div#bt{
+    text-align: center;
+}
+section#camp2{
+    background:  rgba(221, 207, 16, 0.973);
+    border-radius: 24px 4px;
+    padding: 15px;
+    width: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.781);
+}
+    section#camp3{
+        background:  rgba(221, 207, 16, 0.973);
+        border-radius: 24px 4px;
+        padding: 15px;
+        width: 300px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.781);
+    } 
+    section#camp4{
+        background:  rgba(221, 207, 16, 0.973);
+        border-radius: 24px 4px;
+        padding: 15px;
+        width: 300px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.781);
+    } 
+    section#camp5{
+        background:  rgba(221, 207, 16, 0.973);
+        border-radius: 24px 4px;
+        padding: 15px;
+        width: 300px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.781);
+    } 
+    section#camp6{
+        background:  rgba(221, 207, 16, 0.973);
+        border-radius: 24px 4px;
+        padding: 15px;
+        width: 300px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.781);
+    } 
+    section#camp7{
+        background:  rgba(221, 207, 16, 0.973);
+        border-radius: 24px 4px;
+        padding: 15px;
+        width: 300px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.781);
+    } 
+    section#camp8{
+        background:  rgba(221, 207, 16, 0.973);
+        border-radius: 24px 4px;
+        padding: 15px;
+        width: 300px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.781);
+    } 
+    section#camp9{
+        background:  rgba(221, 207, 16, 0.973);
+        border-radius: 24px 4px;
+        padding: 15px;
+        width: 300px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.781);
+    } 
+    section#camp10{
+        background:  rgba(221, 207, 16, 0.973);
+        border-radius: 24px 4px;
+        padding: 15px;
+        width: 300px;
+        margin: auto;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.781);
+    } 
